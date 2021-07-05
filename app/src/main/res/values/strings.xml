@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Samachar</string>
+
+    <string name="please_select_the_category">Please Select The Category</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="opinion">Opinion</string>
+    <string name="politics">Politics</string>
+    <string name="regional">Regional</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+</resources>

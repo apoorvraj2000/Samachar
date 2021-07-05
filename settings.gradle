@@ -1,0 +1,2 @@
+rootProject.name = "Samachar"
+include ':app'
